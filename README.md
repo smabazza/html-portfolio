@@ -1,2 +1,2 @@
 # html-portfolio
-Persoanl HTML Portfolio
+Personal HTML Portfolio
